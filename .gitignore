@@ -1,0 +1,6 @@
+.env
+*.exe
+*.parquet
+*.zip
+repomix-output.xml
+*copia.env
